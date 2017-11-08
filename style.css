@@ -1,0 +1,446 @@
+
+
+#TRY {
+  margin-left:0px;
+  margin-right:0px;
+  margin-bottom:0px;
+  margin-top:0px;
+}
+
+#MORE {
+  margin-left:250px;
+  margin-right:0px;
+  margin-bottom:0px;
+  margin-top:0px;
+}
+
+#SUCK {
+  margin-left:500px;
+  margin-right:0px;
+  margin-bottom:0px;
+  margin-top:0px;
+}
+
+#AS {
+  margin-left:550px;
+  margin-right:0px;
+  margin-bottom:0px;
+  margin-top:0px;
+}
+
+#YOU {
+  margin-left:350px;
+  margin-right:0px;
+  margin-bottom:0px;
+  margin-top:0px;
+}
+
+#READ {
+  margin-left:0px;
+  margin-right:0px;
+  margin-bottom:0px;
+  margin-top:0px;
+}
+
+#THINKTACTICALLY
+{
+  float: right;
+}
+{
+  margin-left:0px;
+  margin-right:2500px;
+  margin-bottom:0px;
+  margin-top:0px;
+}
+
+#tactically
+{
+  float: right;
+}
+
+#border
+{
+  border-bottom: 5px solid black;
+}
+
+#borderleft
+{
+  border-left: 5px solid black;
+}
+
+#borderright
+{
+  border-right: 5px solid black;
+}
+
+#bordertwo
+{
+  border-top: 5px solid black;
+}
+#paddingone
+{
+  padding-left:0px;
+  padding-right:300px;
+  padding-bottom:00px;
+  padding-top:0px;
+}
+
+#paddingtwo
+{
+  padding-left:300px;
+  padding-right:0px;
+  padding-bottom:00px;
+  padding-top:0px;
+}
+
+#fontsize
+{
+  font-size: 60px;
+}
+
+#fontfamily
+{
+ font-family: arial;
+}
+
+#fontfamilyverdana
+{
+ font-family: verdana;
+}
+
+#linespacingpointtwo
+{
+  letter-spacing: 2px;
+}
+
+#linespacingpointone
+{
+  letter-spacing: 1px;
+}
+
+#linespacingpointthree
+{
+  letter-spacing: 3px;
+}
+
+#linespacingpointfour
+{
+  letter-spacing: 4px;
+}
+
+#linespacingpointfive
+{
+  letter-spacing: 5px;
+}
+
+#linespacingpointsix
+{
+  letter-spacing: 6px;
+}
+
+#linespacingpointseven
+{
+  letter-spacing: 7px;
+}
+
+#linespacingpointeight
+{
+  letter-spacing: 8px;
+}
+
+#linespacingpointnine
+{
+  letter-spacing: 9px;
+}
+
+#linespacingpointten
+{
+  letter-spacing: 10px;
+}
+
+#lineheightone
+{
+  line-height: 1px;
+}
+
+#lineheighttwo
+{
+  line-height: 1px;
+}
+
+#lineheightthree
+{
+  line-height: 1px;
+}
+
+#lineheightfour
+{
+  line-height: 1px;
+}
+
+#lineheightfive
+{
+  line-height: 1px;
+}
+
+#lineheightsix
+{
+  line-height: 1px;
+}
+
+#lineheightseven
+{
+  line-height: 1px;
+}
+
+#lineheighteight
+{
+  line-height: 1px;
+}
+
+#lineheightnine
+{
+  line-height: 1px;
+}
+
+#lineheightten
+{
+  line-height: 1px;
+}
+
+#floatrightfourtwo
+{
+  float: right;
+}
+
+#textalignright
+{
+text-align:left;
+}
+
+#floatleftfourtwo
+{
+  float: right;
+}
+
+#textalignleft
+{
+text-align:left;
+}
+
+#fontsizefourtwo
+{
+  font-size: 50px;
+}
+
+
+#textalign
+{
+text-align:center;
+}
+
+#texttransform
+{
+  text-transform: uppercase;
+}
+
+#fontweight
+{
+  font-weight: bold;
+}
+
+#fontstyle
+{
+  font-style: italic;
+}
+
+
+
+
+#lineheightfourthreeone
+{
+  line-height: 1px;
+}
+
+#lineheightfourthreetwo
+{
+  line-height: 2px;
+}
+
+#lineheightfourthreethree
+{
+  line-height: 3px;
+}
+#lineheightfourthreefour
+{
+  line-height: 4px;
+}
+
+#lineheightfourthreefive
+{
+  line-height: 5px;
+}
+
+#lineheightfourthreesix
+{
+  line-height: 6px;
+}
+
+#lineheightfourthreeseven
+{
+  line-height: 7px;
+}
+
+#lineheightfourthreeeight
+{
+  line-height: 8px;
+}
+
+#lineheightfourthreenine
+{
+  line-height: 9px;
+}
+#lineheightfourthreeten
+{
+  line-height: 10px;
+}
+
+#lineheightfourthreetwelve
+{
+  line-height: 11px;
+}
+
+#lineheightfourthreeeleven
+{
+  line-height: 12px;
+}
+#lineheightfourthreethirteen
+{
+  line-height: 13px;
+}
+
+#lineheightfourthreefourteen
+{
+  line-height: 14px;
+}
+
+#lineheightfourthreefifteen
+{
+  line-height: 15px;
+}
+#lineheightfourthreesixteen
+{
+  line-height: 16px;
+}
+
+#lineheightfourthreeseventeen
+{
+  line-height: 17px;
+}
+
+#lineheightfourthreeeighteen
+{
+  line-height: 18px;
+}
+
+#lineheightfourthreenineteen
+{
+  line-height: 19px;
+}
+
+#lineheightfourthreetwenty
+{
+  line-height: 20px;
+}
+
+#lineheightfourthreetwentyone
+{
+  line-height: 21px;
+}
+#lineheightfourthreetwentytwo
+{
+  line-height: 22px;
+}
+
+#lineheightfourthreetwentythree
+{
+  line-height: 23px;
+}
+
+#lineheightfourthreetwentyfour
+{
+  line-height: 24px;
+}
+
+#turnofffont
+{
+ font-family: arial;
+}
+
+#turnofffontsize
+{
+  font-size: 50px;
+}
+
+#turnonfont
+{
+ font-family: impact;
+}
+
+#turnonfontsize
+{
+  font-size: 200px;
+}
+
+#staticimage
+.image {
+   position: absolute;
+   width: 100%;
+   left: 100%; /* for IE 6 */
+}
+
+h1 {
+   position: absolute;
+   top: 50px;
+   left: 0;
+   right: 0;
+   width: 100%;
+}
+h2 {
+   position: absolute;
+   top: 150px;
+   left: 0;
+   right: 0;
+   width: 100%;
+}
+h3 {
+   position: absolute;
+   top: 220px;
+   left: 0;
+   right: 0;
+   width: 100%;
+}
+h4 {
+   position: absolute;
+   top: 270px;
+   left: 0;
+   right: 0;
+   width: 100%;
+}
+h5 {
+   position: absolute;
+   top: 320px;
+   left: 0;
+   right: 0;
+   width: 100%;
+}
+
+#putdown
+{
+text-align:left;
+}
+
+#donut
+{
+text-align:right;
+}
